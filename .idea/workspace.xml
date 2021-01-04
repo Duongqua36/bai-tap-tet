@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d65ca725-9519-4792-b963-59348026279a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tien-te/chuyen-doi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tien-te/chuyen-doi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xmind.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bai-tap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../C1220I1/bien-toantu/chuyen-doi-tien-te.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../C1020G2/baitapc1020G2/so-yeu-li-lich.html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609673269759</updated>
       <workItem from="1609673270807" duration="598000" />
-      <workItem from="1609721011680" duration="517000" />
+      <workItem from="1609721011680" duration="1644000" />
     </task>
     <servers />
   </component>
@@ -67,9 +64,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1609721155359">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1609722909367">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609721155359" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609722909367" />
   </component>
 </project>
